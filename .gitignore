@@ -1,3 +1,6 @@
 
 *.odt#
 *.docx#
+*/*/BSR
+*/*/BSR_full.tgz
+*.ipynb
